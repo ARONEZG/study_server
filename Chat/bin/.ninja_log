@@ -1,0 +1,18 @@
+# ninja log v5
+61	358	7481629758451080	Chat_autogen/timestamp	938c911e574ab044
+61	358	7481629758451080	Chat_autogen/mocs_compilation.cpp	938c911e574ab044
+61	358	7481629758451080	C:/Users/artem1997/Documents/study/Chat/bin/Chat_autogen/timestamp	938c911e574ab044
+61	358	7481629758451080	C:/Users/artem1997/Documents/study/Chat/bin/Chat_autogen/mocs_compilation.cpp	938c911e574ab044
+359	1649	7481629771880325	CMakeFiles/Chat.dir/Chat_autogen/mocs_compilation.cpp.obj	e718d19fb743a58a
+365	1650	7481629771890184	CMakeFiles/Chat.dir/mainwindow.cpp.obj	f59de8a1b125a589
+1661	1963	7481629774356128	Chat.exe	781ae7d25c67c7a
+362	1661	7481629771995473	CMakeFiles/Chat.dir/main.cpp.obj	8871c1a4b2cb30cf
+35	307	7481700211892294	Chat_autogen/timestamp	938c911e574ab044
+35	307	7481700211892294	Chat_autogen/mocs_compilation.cpp	938c911e574ab044
+35	307	7481700211892294	C:/Users/artem1997/Documents/study/Chat/bin/Chat_autogen/timestamp	938c911e574ab044
+35	307	7481700211892294	C:/Users/artem1997/Documents/study/Chat/bin/Chat_autogen/mocs_compilation.cpp	938c911e574ab044
+311	2146	7481700230648999	CMakeFiles/Chat.dir/main.cpp.obj	25a5dc3ad32dda6f
+320	2149	7481700230648999	CMakeFiles/Chat.dir/connector.cpp.obj	c28d79295abf5773
+308	2150	7481700230648999	CMakeFiles/Chat.dir/Chat_autogen/mocs_compilation.cpp.obj	185b8bf68c5fcfba
+316	2153	7481700230648999	CMakeFiles/Chat.dir/mainwindow.cpp.obj	ee7e152dcc9979cf
+2153	2357	7481700232367713	Chat.exe	83a88efd32bc5a4a

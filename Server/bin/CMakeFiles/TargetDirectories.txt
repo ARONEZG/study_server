@@ -1,0 +1,6 @@
+C:/Users/artem1997/Documents/study/Server/bin/CMakeFiles/Server.dir
+C:/Users/artem1997/Documents/study/Server/bin/CMakeFiles/edit_cache.dir
+C:/Users/artem1997/Documents/study/Server/bin/CMakeFiles/rebuild_cache.dir
+C:/Users/artem1997/Documents/study/Server/bin/CMakeFiles/list_install_components.dir
+C:/Users/artem1997/Documents/study/Server/bin/CMakeFiles/install.dir
+C:/Users/artem1997/Documents/study/Server/bin/CMakeFiles/install/local.dir
